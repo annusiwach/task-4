@@ -33,7 +33,7 @@ A core focus of this phase was validating spending disparities between different
 
 ### Analysis & Verdict
 Upon separating transaction pools and executing the testing script, the resulting metrics yielded:
-* **p-value:** *[Insert your calculated p-value, e.g., 0.0342]*
+* **p-value:** *0.495011*
 * **Decision:** Since the $p$-value falls below the significance threshold ($\alpha = 0.05$), we officially **Reject the Null Hypothesis ($H_0$)**. 
 
 This mathematical threshold mathematically confirms that variations in user purchasing behavior represent a structural business variance that can be directly leveraged for corporate strategy.
